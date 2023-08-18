@@ -1,0 +1,10 @@
+WORLD_STATE = "/path/to/world-state"
+IPFS_ADDR = "/ip4/127.0.0.1/tcp/5002"
+IPFS_TIMEOUT_SEC = 0
+TX_STATUS_SUCCESS = 1
+TX_STATUS_FAILED = 2
+TX_KEY = "tx"
+CRON_KEY = "cron"
+TX_RECEIPT_KEY = "receipt"
+METADATA_KEY = "metadata"
+METACONTRACT_KEY = "metacontract"
